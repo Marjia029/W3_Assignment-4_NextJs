@@ -1,0 +1,48 @@
+{
+  "title": "Mountain Escape Lodge",
+  "description": "A serene lodge nestled in the mountains, offering breathtaking views, cozy accommodations, and a tranquil escape from city life.",
+  "guestCount": 150,
+  "bedroomCount": 80,
+  "bathroomCount": 40,
+  "amenities": [
+    "Mountain View",
+    "Indoor Fireplace",
+    "Hot Tub",
+    "Hiking Trails",
+    "Pet-Friendly",
+    "Complimentary Breakfast",
+    "Free Parking"
+  ],
+  "hostInfo": "Hosted by Mountain Retreats Co.",
+  "address": "789 Alpine Way, Aspen, CO 81611, USA",
+  "latitude": 39.1911,
+  "longitude": -106.8175,
+  "rooms": [
+    {
+      "hotelSlug": "mountain-escape-lodge",
+      "roomSlug": "cozy-cabin",
+      "roomImage": "",
+      "roomTitle": "Cozy Cabin",
+      "bedroomCount": 2
+    },
+    {
+      "hotelSlug": "mountain-escape-lodge",
+      "roomSlug": "luxury-chalet",
+      "roomImage": "",
+      "roomTitle": "Luxury Chalet",
+      "bedroomCount": 4
+    },
+    {
+      "hotelSlug": "mountain-escape-lodge",
+      "roomSlug": "forest-view-suite",
+      "roomImage": "",
+      "roomTitle": "Forest View Suite",
+      "bedroomCount": 1
+    }
+  ],
+  "id": 2,
+  "images": [
+    "/images/1731931433107-723590325-mountain-escape.jpg"
+  ],
+  "slug": "mountain-escape-lodge"
+}

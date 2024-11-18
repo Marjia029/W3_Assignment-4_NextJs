@@ -1,0 +1,47 @@
+{
+  "title": "Luxury Resort Beachfront",
+  "description": "A 5-star luxury beachfront resort offering stunning ocean views, top-notch amenities, and world-class service.",
+  "guestCount": 250,
+  "bedroomCount": 120,
+  "bathroomCount": 60,
+  "amenities": [
+    "Private Beach",
+    "Outdoor Pool",
+    "Spa & Wellness Center",
+    "Fine Dining Restaurant",
+    "Fitness Center",
+    "Free Wi-Fi"
+  ],
+  "hostInfo": "Hosted by Beachfront Luxury Resorts Ltd.",
+  "address": "456 Ocean Drive, Malibu, CA 90210, USA",
+  "latitude": 34.0522,
+  "longitude": -118.2437,
+  "rooms": [
+    {
+      "hotelSlug": "luxury-resort-beachfront",
+      "roomSlug": "beachfront-suite",
+      "roomImage": "/roomImages/1731932252528-426505349-hotel1.jpeg",
+      "roomTitle": "Beachfront Suite",
+      "bedroomCount": 2
+    },
+    {
+      "hotelSlug": "luxury-resort-beachfront",
+      "roomSlug": "ocean-view-room",
+      "roomImage": "",
+      "roomTitle": "Ocean View Room",
+      "bedroomCount": 1
+    },
+    {
+      "hotelSlug": "luxury-resort-beachfront",
+      "roomSlug": "deluxe-villa",
+      "roomImage": "",
+      "roomTitle": "Deluxe Villa",
+      "bedroomCount": 3
+    }
+  ],
+  "id": 1,
+  "images": [
+    "/images/1731929568653-967182408-hotel3.jpeg"
+  ],
+  "slug": "luxury-resort-beachfront"
+}
