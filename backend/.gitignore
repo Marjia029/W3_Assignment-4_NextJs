@@ -1,4 +1,3 @@
 /node_modules
-/uploads
-/src/public
-/src/upload
+/uploads/
+/src/public/
